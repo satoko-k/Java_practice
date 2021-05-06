@@ -5,7 +5,6 @@ class Method {
           // String name = fullName("鈴木","花子");  
           // printData(name, 27);
           printData(fullName("鈴木","花子"),27);
-
           printData(fullName("John", "Christopher", "Smith"), 65);
           
         }
