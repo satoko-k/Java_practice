@@ -4,12 +4,12 @@ class Sample {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.print("åå‰ï¼š ");
+        System.out.print("–¼‘OF ");
         
-        // å¤‰æ•°nameã‚’å®šç¾©ã—ã€ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‹ã‚‰æ–‡å­—åˆ—ã‚’å—ã‘å–ã£ã¦ä»£å…¥
+        // •Ï”name‚ğ’è‹`‚µAƒRƒ“ƒ\[ƒ‹‚©‚ç•¶š—ñ‚ğó‚¯æ‚Á‚Ä‘ã“ü
         String name = scanner.next();
         
-        System.out.println("ã“ã‚“ã«ã¡ã¯"+ name + "ã•ã‚“");
+        System.out.println("‚±‚ñ‚É‚¿‚Í"+ name + "‚³‚ñ");
       }
     
 }

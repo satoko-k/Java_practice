@@ -1,10 +1,10 @@
 class Main {
     public static void main(String[] args) {
         
-      // ã“ã‚“ã«ã¡ã¯Javaã‚’å‡ºåŠ›
-      System.out.println("ã“ã‚“ã«ã¡ã¯ã€Java");
+      // ‚±‚ñ‚É‚¿‚ÍJava‚ğo—Í
+      System.out.println("‚±‚ñ‚É‚¿‚ÍAJava");
 
-      // ãƒ‡ãƒ¼ã‚¿å‹ã€€æ•´æ•°
+      // ƒf[ƒ^Œ^@®”
       byte var = 1;  
       short var02 = 12345;
       int var_03 = 1234567890;
@@ -15,20 +15,20 @@ class Main {
       System.out.println(var_03);
       System.out.println(var04);
 
-      // ãƒ‡ãƒ¼ã‚¿å‹ã€€å°æ•°
+      // ƒf[ƒ^Œ^@¬”
       double var05 = 1.234546789;
-      float var06 = 1.234F; //floatã¯æœ€å¾Œã«Fã‚’ã¤ã‘ã‚‹
+      float var06 = 1.234F; //float‚ÍÅŒã‚ÉF‚ğ‚Â‚¯‚é
 
       System.out.println(var05);
       System.out.println(var06);
       
-      //ãƒ‡ãƒ¼ã‚¿å‹ã€€æ–‡å­— charã¯æ–‡å­—ï¼‘ã¤ã€€Stringã¯æ–‡å­—ï¼’ã¤ä»¥ä¸Šï¼ˆæ­£ç¢ºã«ã¯ã‚¯ãƒ©ã‚¹ï¼‰
-      char var07='C';  //ã‚·ãƒ³ã‚°ãƒ«
-      String var08= "Hello World!!"; //ãƒ€ãƒ–ãƒ«
+      //ƒf[ƒ^Œ^@•¶š char‚Í•¶š‚P‚Â@String‚Í•¶š‚Q‚ÂˆÈãi³Šm‚É‚ÍƒNƒ‰ƒXj
+      char var07='C';  //ƒVƒ“ƒOƒ‹
+      String var08= "Hello World!!"; //ƒ_ƒuƒ‹
       System.out.println(var07);
       System.out.println(var08);
       
-      // ãƒ‡ãƒ¼ã‚¿å‹ã€€ãƒ–ãƒ¼ãƒ«å‹ï¼ãƒ–ãƒ¼ãƒªã‚¢ãƒ³å‹ã€€ï¼ˆçœŸå½ãƒ»0ã‹1ï¼‰
+      // ƒf[ƒ^Œ^@ƒu[ƒ‹Œ^ƒu[ƒŠƒAƒ“Œ^@i^‹UE0‚©1j
       int var_a=10;
       int var_b=1;
       boolean var_bool;
